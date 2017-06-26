@@ -1,4 +1,10 @@
 # Gitpitchの紹介
+<div style="text-align: right;">
+2017/06/27
+技術管理部
+井原
+</div>
+
 
 ---
 
